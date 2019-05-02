@@ -136,4 +136,3 @@ String checkClient(void)
   request.remove(request.length()-9,9);
   return request;
 }
- 
